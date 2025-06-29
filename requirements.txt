@@ -1,0 +1,8 @@
+pymongo[srv]==4.7.2
+openai
+requests
+langchain
+langchain-openai
+python-dotenv
+streamlit
+plotly
