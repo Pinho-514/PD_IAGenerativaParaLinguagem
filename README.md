@@ -70,8 +70,8 @@ O histórico de mensagens aparece com as últimas 10 apenas. A ideia é de uma c
 
 #### a) Clone o repositório:
 ```bash
-git clone <url_do_repositorio>
-cd <pasta_do_projeto>
+git clone https://github.com/Pinho-514/PD_IAGenerativaParaLinguagem.git
+cd PD_IAGenerativaParaLinguagem
 ```
 
 #### b) Crie e ative um ambiente virtual:
